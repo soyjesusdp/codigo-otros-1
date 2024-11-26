@@ -21,4 +21,3 @@ function handleError(err) {
 }
 
 displayUser('stolinski').catch(handleError);
-
